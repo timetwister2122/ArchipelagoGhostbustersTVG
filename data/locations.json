@@ -103,7 +103,7 @@
       "category": [
         "Level Complete"
       ],
-      "requires": "|Public Library Unlock| AND |Boson Dart| AND |Ghost Trap| AND |Stasis Stream| AND |Slime Tether| AND |Slime Blower| AND |Shock Blast|"
+      "requires": "|Public Library Unlock| AND |Ghost Trap| AND |Stasis Stream| AND |Slime Tether| AND |Slime Blower| AND |Shock Blast|"
     },
     {
       "name": "History Museum Complete",
@@ -111,7 +111,7 @@
       "category": [
         "Level Complete"
       ],
-      "requires": "|History Museum Unlock| AND |Boson Dart| AND |Ghost Trap| AND |Stasis Stream| AND |Slime Tether| AND |Slime Blower| AND |Shock Blast| AND |Meson Collider| AND |Overload Pulse|"
+      "requires": "|History Museum Unlock| AND |Boson Dart| AND |Ghost Trap| AND |Slime Tether| AND |Slime Blower| AND |Meson Collider| AND |Overload Pulse|"
     },
     {
       "name": "Return to Sedgewick Complete",
@@ -179,7 +179,7 @@
       "category": [
         "Ghost Scans"
       ],
-      "requires": "|Times Square Unlock|"
+      "requires": "|Times Square Unlock| AND |Boson Dart|"
     },
     {
       "name": "Black Slime Portal Scan",
@@ -187,7 +187,7 @@
       "category": [
         "Ghost Scans"
       ],
-      "requires": "|Times Square Unlock|"
+      "requires": "|Times Square Unlock| AND |Boson Dart|"
     },
     {
       "name": "Stay Puft Scan",
@@ -195,7 +195,7 @@
       "category": [
         "Ghost Scans"
       ],
-      "requires": "|Times Square Unlock|"
+      "requires": "|Times Square Unlock| AND |Boson Dart|"
     },
     {
       "name": "Gaillano's Enchanted Pail",
@@ -203,7 +203,7 @@
       "category": [
         "Artifact Scan"
       ],
-      "requires": "|Times Square Unlock|"
+      "requires": "|Times Square Unlock| AND |Boson Dart|"
     },
     {
       "name": "J-Toed Jenkin's Midnight Goose",
@@ -227,7 +227,7 @@
       "category": [
         "Artifact Scan"
       ],
-      "requires": "|Times Square Unlock|"
+      "requires": ""
     },
     {
       "name": "Asmodeus' Hotline",
@@ -235,7 +235,7 @@
       "category": [
         "Artifact Scan"
       ],
-      "requires": "|Times Square Unlock|"
+      "requires": "|Times Square Unlock| AND |Boson Dart|"
     },
     {
       "name": "Hohman's Black Low-Rise",
@@ -243,7 +243,7 @@
       "category": [
         "Artifact Scan"
       ],
-      "requires": "|Times Square Unlock|"
+      "requires": "|Times Square Unlock| AND |Boson Dart|"
     },
     {
       "name": "\"The Ravishing Red Prince\"",
@@ -251,7 +251,7 @@
       "category": [
         "Artifact Scan"
       ],
-      "requires": "|Times Square Unlock|"
+      "requires": "|Times Square Unlock| AND |Boson Dart|"
     },
     {
       "name": "Portrait of Eleanor Twitty",
@@ -259,7 +259,7 @@
       "category": [
         "Artifact Scan"
       ],
-      "requires": "|Public Library Unlock|"
+      "requires": "|Public Library Unlock| AND |Stasis Stream| AND |Shock Blast|"
     },
     {
       "name": "Reluctant Reading Lamp",
@@ -267,14 +267,14 @@
       "category": [
         "Artifact Scan"
       ],
-      "requires": "|Public Library Unlock|"
+      "requires": "|Public Library Unlock| AND |Stasis Stream| AND |Shock Blast|"
     },
     {
       "name": "Pin-up Calendar of DOOM!",
       "category": [
         "Artifact Scan"
       ],
-      "requires": "|Public Library Unlock|",
+      "requires": "|Public Library Unlock| AND |Stasis Stream| AND |Shock Blast|",
       "region": "Public Library Artifacts"
     },
     {
@@ -282,7 +282,7 @@
       "category": [
         "Artifact Scan"
       ],
-      "requires": "|Public Library Unlock|",
+      "requires": "|Public Library Unlock| AND |Stasis Stream| AND |Shock Blast|",
       "region": "Public Library Artifacts"
     },
     {
@@ -291,7 +291,7 @@
       "category": [
         "Artifact Scan"
       ],
-      "requires": "|Public Library Unlock|"
+      "requires": "|Public Library Unlock| AND |Stasis Stream| AND |Shock Blast|"
     },
     {
       "name": "Featherwell's Stalking Chair",
@@ -299,7 +299,7 @@
       "category": [
         "Artifact Scan"
       ],
-      "requires": "|Public Library Unlock|"
+      "requires": "|Public Library Unlock| AND |Stasis Stream| AND |Shock Blast|"
     },
     {
       "name": "Bagged Head Of Azathotep",
@@ -403,7 +403,7 @@
       "category": [
         "Ghost Scans"
       ],
-      "requires": "|Public Library Unlock|"
+      "requires": "|Public Library Unlock| AND |Stasis Stream| AND |Shock Blast| AND |Slime Blower| AND |Slime Tether|"
     },
     {
       "name": "Book Bat Scan",
@@ -411,7 +411,7 @@
       "category": [
         "Ghost Scans"
       ],
-      "requires": "|Public Library Unlock|"
+      "requires": "|Public Library Unlock| AND |Stasis Stream| AND |Shock Blast|"
     },
     {
       "name": "Book Centurion Scan",
@@ -419,7 +419,7 @@
       "category": [
         "Ghost Scans"
       ],
-      "requires": "|Public Library Unlock|"
+      "requires": "|Public Library Unlock| AND |Stasis Stream| AND |Shock Blast|"
     },
     {
       "name": "Book Golem Scan",
@@ -435,7 +435,7 @@
       "category": [
         "Ghost Scans"
       ],
-      "requires": "|Public Library Unlock|"
+      "requires": "|Public Library Unlock| AND |Stasis Stream| AND |Shock Blast|"
     },
     {
       "name": "Cruster Scan",
@@ -443,7 +443,7 @@
       "category": [
         "Ghost Scans"
       ],
-      "requires": "|Public Library Unlock|"
+      "requires": "|Public Library Unlock| AND |Stasis Stream| AND |Shock Blast|"
     },
     {
       "name": "Crusto Scan",
@@ -451,7 +451,7 @@
       "category": [
         "Ghost Scans"
       ],
-      "requires": "|Public Library Unlock|"
+      "requires": "|Public Library Unlock| AND |Stasis Stream| AND |Shock Blast|"
     },
     {
       "name": "Cultist Scan",
@@ -459,7 +459,7 @@
       "category": [
         "Ghost Scans"
       ],
-      "requires": "|Public Library Unlock|"
+      "requires": "|Public Library Unlock| AND |Stasis Stream| AND |Shock Blast| AND |Slime Blower| AND |Slime Tether|"
     },
     {
       "name": "Librarian Ghost Scan",
@@ -467,7 +467,7 @@
       "category": [
         "Ghost Scans"
       ],
-      "requires": "|Public Library Unlock|"
+      "requires": "|Public Library Unlock| AND |Stasis Stream| AND |Shock Blast| AND |Slime Blower|"
     },
     {
       "name": "Paper Construct Scan",
@@ -475,7 +475,7 @@
       "category": [
         "Ghost Scans"
       ],
-      "requires": "|Public Library Unlock|"
+      "requires": "|Public Library Unlock| AND |Stasis Stream| AND |Shock Blast|"
     },
     {
       "name": "Beauty Queen Scan",
@@ -547,7 +547,7 @@
       "category": [
         "Ghost Scans"
       ],
-      "requires": "|History Museum Unlock|"
+      "requires": "|History Museum Unlock| AND |Meson Collider| AND |Overload Pulse|"
     },
     {
       "name": "Union Ghost Scan",
@@ -619,7 +619,7 @@
       "category": [
         "Ghost Scans"
       ],
-      "requires": "|Shandor Island Unlock|"
+      "requires": "|Shandor Island Unlock| AND |Slime Tether|"
     },
     {
       "name": "Imprisoned Juvenile Sloar Scan",
@@ -627,7 +627,7 @@
       "category": [
         "Ghost Scans"
       ],
-      "requires": "|Shandor Island Unlock|"
+      "requires": "|Shandor Island Unlock| AND |Slime Tether|"
     },
     {
       "name": "Cemetery Crawler Scan",
@@ -635,7 +635,7 @@
       "category": [
         "Ghost Scans"
       ],
-      "requires": "|Central Park Unlock|"
+      "requires": "|Central Park Unlock| AND |Slime Tether|"
     },
     {
       "name": "Cultist Summoner Scan",
@@ -643,7 +643,7 @@
       "category": [
         "Ghost Scans"
       ],
-      "requires": "|Central Park Unlock|"
+      "requires": "|Central Park Unlock| AND |Slime Tether|"
     },
     {
       "name": "Grave Fiend Scan",
@@ -651,7 +651,7 @@
       "category": [
         "Ghost Scans"
       ],
-      "requires": "|Central Park Unlock|"
+      "requires": "|Central Park Unlock| AND |Slime Tether|"
     },
     {
       "name": "Grave Monster Scan",
@@ -659,7 +659,7 @@
       "category": [
         "Ghost Scans"
       ],
-      "requires": "|Central Park Unlock|"
+      "requires": "|Central Park Unlock| AND |Slime Tether|"
     },
     {
       "name": "Keyhead Monster Scan",
@@ -667,7 +667,7 @@
       "category": [
         "Ghost Scans"
       ],
-      "requires": "|Central Park Unlock|"
+      "requires": "|Central Park Unlock| AND |Slime Tether|"
     },
     {
       "name": "Shandor the Architect Scan",
@@ -675,7 +675,7 @@
       "category": [
         "Ghost Scans"
       ],
-      "requires": "|Central Park Unlock|"
+      "requires": "|Central Park Unlock| AND |Slime Tether|"
     },
     {
       "name": "Stone Angel Scan",
@@ -683,7 +683,7 @@
       "category": [
         "Ghost Scans"
       ],
-      "requires": "|Central Park Unlock|"
+      "requires": "|Central Park Unlock| AND |Slime Tether|"
     },
     {
       "name": "Anguished Stuffed Bear",
@@ -691,7 +691,7 @@
       "category": [
         "Artifact Scan"
       ],
-      "requires": "|Shandor Island Unlock|"
+      "requires": "|Shandor Island Unlock| AND |Slime Tether|"
     },
     {
       "name": "Church of Gozer Songbook",
@@ -699,7 +699,7 @@
       "category": [
         "Artifact Scan"
       ],
-      "requires": "|Shandor Island Unlock|"
+      "requires": "|Shandor Island Unlock| AND |Slime Tether|"
     },
     {
       "name": "Fox Hunt on Tiamat Island",
@@ -707,7 +707,7 @@
       "category": [
         "Artifact Scan"
       ],
-      "requires": "|Shandor Island Unlock|"
+      "requires": "|Shandor Island Unlock| AND |Slime Tether|"
     },
     {
       "name": "Ghostbusters DVD",
@@ -715,7 +715,7 @@
       "category": [
         "Artifact Scan"
       ],
-      "requires": "|Shandor Island Unlock|"
+      "requires": "|Shandor Island Unlock| AND |Slime Tether|"
     },
     {
       "name": "Singing Slime",
@@ -723,7 +723,7 @@
       "category": [
         "Artifact Scan"
       ],
-      "requires": "|Shandor Island Unlock|"
+      "requires": "|Shandor Island Unlock| AND |Slime Tether|"
     },
     {
       "name": "Wheel of the Alabaster Wretch",
@@ -731,7 +731,7 @@
       "category": [
         "Artifact Scan"
       ],
-      "requires": "|Shandor Island Unlock|"
+      "requires": "|Shandor Island Unlock| AND |Slime Tether|"
     },
     {
       "name": "Archangel's Gallbladder",
@@ -739,7 +739,7 @@
       "category": [
         "Artifact Scan"
       ],
-      "requires": "|Central Park Unlock|"
+      "requires": "|Central Park Unlock| AND |Slime Tether|"
     },
     {
       "name": "Ghostbusters Mug and Balloon",
@@ -747,7 +747,7 @@
       "category": [
         "Artifact Scan"
       ],
-      "requires": "|Central Park Unlock|"
+      "requires": "|Central Park Unlock| AND |Slime Tether|"
     },
     {
       "name": "Ghostfruit Tree",
@@ -755,7 +755,7 @@
       "category": [
         "Artifact Scan"
       ],
-      "requires": "|Central Park Unlock|"
+      "requires": "|Central Park Unlock| AND |Slime Tether|"
     },
     {
       "name": "Stone Angel Head",
@@ -763,14 +763,14 @@
       "category": [
         "Artifact Scan"
       ],
-      "requires": "|Central Park Unlock|"
+      "requires": "|Central Park Unlock| AND |Slime Tether|"
     },
     {
       "name": "The Skull of Ivo Shandor",
       "category": [
         "Artifact Scan"
       ],
-      "requires": "|Central Park Unlock|",
+      "requires": "|Central Park Unlock| AND |Slime Tether|",
       "region": "Central Park Artifacts"
     },
     {
@@ -779,7 +779,7 @@
       "category": [
         "Artifact Scan"
       ],
-      "requires": "|Central Park Unlock|"
+      "requires": "|Central Park Unlock| AND |Slime Tether|"
     }
   ]
 }
