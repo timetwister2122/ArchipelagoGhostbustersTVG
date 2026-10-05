@@ -1,90 +1,125 @@
-[
-  {
-    "count": 1,
-    "name": "Boson Dart",
-    "category": [
-      "Proton Upgrades"
-    ],
-    "progression": true
-  },
-  {
-    "count": 1,
-    "name": "Ghost Trap",
-    "category": [
-      "Proton Upgrades"
-    ],
-    "progression": true
-  },
-  {
-    "count": 1,
-    "name": "Stasis Stream",
-    "category": [
-      "Proton Upgrades"
-    ],
-    "progression": true
-  },
-  {
-    "count": 1,
-    "name": "Shock Blast",
-    "category": [
-      "Proton Upgrades"
-    ],
-    "progression": true
-  },
-  {
-    "count": 1,
-    "name": "Slime Blower",
-    "category": [
-      "Proton Upgrades"
-    ],
-    "progression": true
-  },
-  {
-    "count": 1,
-    "name": "Slime Tether",
-    "category": [
-      "Proton Upgrades"
-    ],
-    "progression": true
-  },
-  {
-    "count": 1,
-    "name": "Meson Collider",
-    "category": [
-      "Proton Upgrades"
-    ],
-    "progression": true
-  },
-  {
-    "count": 1,
-    "name": "Overload Pulse",
-    "category": [
-      "Proton Upgrades"
-    ],
-    "progression": true
-  },
-  {
-    "count": "5",
-    "name": "Progressive Shop",
-    "category": [
-      "Shop Upgrades"
-    ],
-    "useful": true
-  },
-  {
-    "count": 1,
-    "name": "Tell Him About The Twinkie",
-    "category": [
-      "Filler"
-    ],
-    "filler": true
-  },
-  {
-    "count": "6",
-    "name": "Progressive Level Unlock",
-    "category": [
-      "Level Unlocks"
-    ],
-    "progression": true
-  }
-]
+{
+  "$schema": "https://github.com/ManualForArchipelago/Manual/raw/main/schemas/Manual.items.schema.json",
+  "data": [
+    {
+      "count": 1,
+      "name": "Boson Dart",
+      "category": [
+        "Proton Upgrades"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Ghost Trap",
+      "category": [
+        "Proton Upgrades"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Stasis Stream",
+      "category": [
+        "Proton Upgrades"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Shock Blast",
+      "category": [
+        "Proton Upgrades"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Slime Blower",
+      "category": [
+        "Proton Upgrades"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Slime Tether",
+      "category": [
+        "Proton Upgrades"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Meson Collider",
+      "category": [
+        "Proton Upgrades"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Overload Pulse",
+      "category": [
+        "Proton Upgrades"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Tell Him About The Twinkie",
+      "category": [
+        "Filler"
+      ],
+      "filler": true
+    },
+    {
+      "count": "1",
+      "name": "Times Square Unlock",
+      "category": [
+        "Level Unlocks"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Public Library Unlock",
+      "category": [
+        "Level Unlocks"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "History Museum Unlock",
+      "category": [
+        "Level Unlocks"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Shandor Island Unlock",
+      "category": [
+        "Level Unlocks"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Central Park Unlock",
+      "category": [
+        "Level Unlocks"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Return to Sedgewick Unlock",
+      "category": [
+        "Level Unlocks"
+      ],
+      "progression": true
+    }
+  ]
+}
