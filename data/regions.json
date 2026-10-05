@@ -1,0 +1,89 @@
+{
+  "Level Completes": {
+    "starting": true,
+    "connects_to": [],
+    "requires": ""
+  },
+  "Sedgewick Scans": {
+    "starting": true,
+    "connects_to": [
+      "Times Square Scans"
+    ],
+    "requires": ""
+  },
+  "Sedgewick Artifacts": {
+    "starting": true,
+    "connects_to": [
+      "Times Square Artifacts"
+    ],
+    "requires": ""
+  },
+  "Times Square Scans": {
+    "connects_to": [
+      "Public Library Scans"
+    ],
+    "requires": ""
+  },
+  "Times Square Artifacts": {
+    "connects_to": [
+      "Public Library Artifacts"
+    ],
+    "requires": ""
+  },
+  "Public Library Scans": {
+    "connects_to": [
+      "History Museum Scans"
+    ],
+    "requires": ""
+  },
+  "Public Library Artifacts": {
+    "connects_to": [
+      "History Museum Artifacts"
+    ],
+    "requires": ""
+  },
+  "History Museum Scans": {
+    "connects_to": [
+      "Return to Sedgewick Scans"
+    ],
+    "requires": ""
+  },
+  "History Museum Artifacts": {
+    "connects_to": [
+      "Return to Sedgewick Artifacts"
+    ],
+    "requires": ""
+  },
+  "Return to Sedgewick Scans": {
+    "connects_to": [
+      "Shandor Island Scans"
+    ],
+    "requires": ""
+  },
+  "Return to Sedgewick Artifacts": {
+    "connects_to": [
+      "Shandor Island Artifacts"
+    ],
+    "requires": ""
+  },
+  "Shandor Island Scans": {
+    "connects_to": [
+      "Central Park Scans"
+    ],
+    "requires": ""
+  },
+  "Shandor Island Artifacts": {
+    "connects_to": [
+      "Central Park Artifacts"
+    ],
+    "requires": ""
+  },
+  "Central Park Scans": {
+    "connects_to": [],
+    "requires": ""
+  },
+  "Central Park Artifacts": {
+    "connects_to": [],
+    "requires": ""
+  }
+}

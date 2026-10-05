@@ -1,0 +1,90 @@
+[
+  {
+    "count": 1,
+    "name": "Boson Dart",
+    "category": [
+      "Proton Upgrades"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Ghost Trap",
+    "category": [
+      "Proton Upgrades"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Stasis Stream",
+    "category": [
+      "Proton Upgrades"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Shock Blast",
+    "category": [
+      "Proton Upgrades"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Slime Blower",
+    "category": [
+      "Proton Upgrades"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Slime Tether",
+    "category": [
+      "Proton Upgrades"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Meson Collider",
+    "category": [
+      "Proton Upgrades"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Overload Pulse",
+    "category": [
+      "Proton Upgrades"
+    ],
+    "progression": true
+  },
+  {
+    "count": "5",
+    "name": "Progressive Shop",
+    "category": [
+      "Shop Upgrades"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Tell Him About The Twinkie",
+    "category": [
+      "Filler"
+    ],
+    "filler": true
+  },
+  {
+    "count": "6",
+    "name": "Progressive Level Unlock",
+    "category": [
+      "Level Unlocks"
+    ],
+    "progression": true
+  }
+]

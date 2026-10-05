@@ -1,0 +1,782 @@
+[
+  {
+    "name": "Hotel Sedgewick Complete",
+    "region": "Level Completes",
+    "category": [
+      "Level Complete"
+    ],
+    "requires": "|Ghost Trap|"
+  },
+  {
+    "name": "Bellhop Ghost Scan",
+    "region": "Sedgewick Scans",
+    "category": [
+      "Ghost Scans"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Black Slime Scan",
+    "region": "Sedgewick Scans",
+    "category": [
+      "Ghost Scans"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Dead Fish Flier Scan",
+    "region": "Sedgewick Scans",
+    "category": [
+      "Ghost Scans"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Candelabrum Crawler Scan",
+    "region": "Sedgewick Scans",
+    "category": [
+      "Ghost Scans"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Pappy Sargassi Scan",
+    "region": "Sedgewick Scans",
+    "category": [
+      "Ghost Scans"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Kitchen Golem Scan",
+    "region": "Sedgewick Scans",
+    "category": [
+      "Ghost Scans"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "The Summoner Bell",
+    "region": "Sedgewick Artifacts",
+    "category": [
+      "Artifact Scan"
+    ],
+    "requires": ""
+  },
+  {
+    "region": "Sedgewick Artifacts",
+    "name": "Stay Puft Figure",
+    "category": [
+      "Artifact Scan"
+    ],
+    "requires": ""
+  },
+  {
+    "region": "Sedgewick Artifacts",
+    "name": "Voyaging Case International",
+    "category": [
+      "Artifact Scan"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Portrait of G. Sedgewick",
+    "region": "Sedgewick Artifacts",
+    "category": [
+      "Artifact Scan"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Times Square Complete",
+    "region": "Level Completes",
+    "category": [
+      "Level Complete"
+    ],
+    "requires": "|Progressive Level Unlock:1| AND |Boson Dart| AND |Ghost Trap|"
+  },
+  {
+    "name": "Public Library Complete",
+    "region": "Level Completes",
+    "category": [
+      "Level Complete"
+    ],
+    "requires": "|Progressive Level Unlock:2| AND |Boson Dart| AND |Ghost Trap| AND |Stasis Stream| AND |Slime Tether| AND |Slime Blower| AND |Shock Blast|"
+  },
+  {
+    "name": "History Museum Complete",
+    "region": "Level Completes",
+    "category": [
+      "Level Complete"
+    ],
+    "requires": "|Progressive Level Unlock:3| AND |Boson Dart| AND |Ghost Trap| AND |Stasis Stream| AND |Slime Tether| AND |Slime Blower| AND |Shock Blast| AND |Meson Collider| AND |Overload Pulse|"
+  },
+  {
+    "name": "Return to Sedgewick Complete",
+    "region": "Level Completes",
+    "category": [
+      "Level Complete"
+    ],
+    "requires": "|Progressive Level Unlock:4| AND |Boson Dart| AND |Ghost Trap| AND |Stasis Stream| AND |Slime Tether| AND |Slime Blower| AND |Shock Blast| AND |Meson Collider| AND |Overload Pulse|"
+  },
+  {
+    "name": "Shandor Island Complete",
+    "region": "Level Completes",
+    "category": [
+      "Level Complete"
+    ],
+    "requires": "|Progressive Level Unlock:5| AND |Boson Dart| AND |Ghost Trap| AND |Stasis Stream| AND |Slime Tether| AND |Slime Blower| AND |Shock Blast| AND |Meson Collider| AND |Overload Pulse|"
+  },
+  {
+    "name": "Central Park Complete",
+    "victory": true,
+    "region": "Level Completes",
+    "category": [
+      "Level Complete"
+    ],
+    "requires": "|Progressive Level Unlock:6| AND |Boson Dart| AND |Ghost Trap| AND |Stasis Stream| AND |Slime Tether| AND |Slime Blower| AND |Shock Blast| AND |Meson Collider| AND |Overload Pulse|",
+    "place_item": [
+      "Tell Him About The Twinkie"
+    ]
+  },
+  {
+    "name": "Construction Worker Ghost Scan",
+    "region": "Times Square Scans",
+    "category": [
+      "Ghost Scans"
+    ],
+    "requires": "|Progressive Level Unlock:1|"
+  },
+  {
+    "name": "Hobo Ghost Scan",
+    "region": "Times Square Scans",
+    "category": [
+      "Ghost Scans"
+    ],
+    "requires": "|Progressive Level Unlock:1|"
+  },
+  {
+    "name": "Stone Gargoyle Scan",
+    "region": "Times Square Scans",
+    "category": [
+      "Ghost Scans"
+    ],
+    "requires": "|Progressive Level Unlock:1|"
+  },
+  {
+    "name": "Marshmallow Mini Scan",
+    "region": "Times Square Scans",
+    "category": [
+      "Ghost Scans"
+    ],
+    "requires": "|Progressive Level Unlock:1|"
+  },
+  {
+    "name": "Opera Diva Ghost Scan",
+    "region": "Times Square Scans",
+    "category": [
+      "Ghost Scans"
+    ],
+    "requires": "|Progressive Level Unlock:1|"
+  },
+  {
+    "name": "Black Slime Portal Scan",
+    "region": "Times Square Scans",
+    "category": [
+      "Ghost Scans"
+    ],
+    "requires": "|Progressive Level Unlock:1|"
+  },
+  {
+    "name": "Stay Puft Scan",
+    "region": "Times Square Scans",
+    "category": [
+      "Ghost Scans"
+    ],
+    "requires": "|Progressive Level Unlock:1|"
+  },
+  {
+    "name": "Gaillano's Enchanted Pail",
+    "region": "Times Square Artifacts",
+    "category": [
+      "Artifact Scan"
+    ],
+    "requires": "|Progressive Level Unlock:1|"
+  },
+  {
+    "name": "J-Toed Jenkin's Midnight Goose",
+    "region": "Times Square Artifacts",
+    "category": [
+      "Artifact Scan"
+    ],
+    "requires": "|Progressive Level Unlock:1|"
+  },
+  {
+    "name": "Patrelli's Mischevious Cone",
+    "region": "Times Square Artifacts",
+    "category": [
+      "Artifact Scan"
+    ],
+    "requires": "|Progressive Level Unlock:1|"
+  },
+  {
+    "name": "Toaster of Sights Unseen",
+    "region": "Sedgewick Artifacts",
+    "category": [
+      "Artifact Scan"
+    ],
+    "requires": "|Progressive Level Unlock:1|"
+  },
+  {
+    "name": "Asmodeus' Hotline",
+    "region": "Times Square Artifacts",
+    "category": [
+      "Artifact Scan"
+    ],
+    "requires": "|Progressive Level Unlock:1|"
+  },
+  {
+    "name": "Hohman's Black Low-Rise",
+    "region": "Times Square Artifacts",
+    "category": [
+      "Artifact Scan"
+    ],
+    "requires": "|Progressive Level Unlock:1|"
+  },
+  {
+    "name": "\"The Ravishing Red Prince\"",
+    "region": "Times Square Artifacts",
+    "category": [
+      "Artifact Scan"
+    ],
+    "requires": "|Progressive Level Unlock:1|"
+  },
+  {
+    "name": "Portrait of Eleanor Twitty",
+    "region": "Public Library Artifacts",
+    "category": [
+      "Artifact Scan"
+    ],
+    "requires": "|Progressive Level Unlock:2|"
+  },
+  {
+    "name": "Reluctant Reading Lamp",
+    "region": "Public Library Artifacts",
+    "category": [
+      "Artifact Scan"
+    ],
+    "requires": "|Progressive Level Unlock:2|"
+  },
+  {
+    "name": "Pin-up Calendar of DOOM!",
+    "category": [
+      "Artifact Scan"
+    ],
+    "requires": "|Progressive Level Unlock:2|",
+    "region": "Public Library Artifacts"
+  },
+  {
+    "name": "Seat of Vapors Foul",
+    "category": [
+      "Artifact Scan"
+    ],
+    "requires": "|Progressive Level Unlock:2|",
+    "region": "Public Library Artifacts"
+  },
+  {
+    "name": "Ali El-Baluu's Irksome Rug",
+    "region": "Public Library Artifacts",
+    "category": [
+      "Artifact Scan"
+    ],
+    "requires": "|Progressive Level Unlock:2|"
+  },
+  {
+    "name": "Featherwell's Stalking Chair",
+    "region": "Public Library Artifacts",
+    "category": [
+      "Artifact Scan"
+    ],
+    "requires": "|Progressive Level Unlock:2|"
+  },
+  {
+    "name": "Bagged Head Of Azathotep",
+    "region": "History Museum Artifacts",
+    "category": [
+      "Artifact Scan"
+    ],
+    "requires": "|Progressive Level Unlock:3|"
+  },
+  {
+    "name": "Cursed Musket Of Cecil Starkey",
+    "region": "History Museum Artifacts",
+    "category": [
+      "Artifact Scan"
+    ],
+    "requires": "|Progressive Level Unlock:3|"
+  },
+  {
+    "name": "Painting of the Trustees",
+    "region": "History Museum Artifacts",
+    "category": [
+      "Artifact Scan"
+    ],
+    "requires": "|Progressive Level Unlock:3|"
+  },
+  {
+    "name": "Phoenician Plague Vase",
+    "region": "History Museum Artifacts",
+    "category": [
+      "Artifact Scan"
+    ],
+    "requires": "|Progressive Level Unlock:3|"
+  },
+  {
+    "name": "Remote Controlled Ecto-1",
+    "region": "History Museum Artifacts",
+    "category": [
+      "Artifact Scan"
+    ],
+    "requires": "|Progressive Level Unlock:3|"
+  },
+  {
+    "name": "Ritual Mask of Bad Advice",
+    "region": "History Museum Artifacts",
+    "category": [
+      "Artifact Scan"
+    ],
+    "requires": "|Progressive Level Unlock:3|"
+  },
+  {
+    "name": "Broccoli Queen Autobiography",
+    "region": "Return to Sedgewick Artifacts",
+    "category": [
+      "Artifact Scan"
+    ],
+    "requires": "|Progressive Level Unlock:4|"
+  },
+  {
+    "name": "Cruel Oven",
+    "region": "Return to Sedgewick Artifacts",
+    "category": [
+      "Artifact Scan"
+    ],
+    "requires": "|Progressive Level Unlock:4|"
+  },
+  {
+    "name": "Phantom Flush Toilet",
+    "region": "Return to Sedgewick Artifacts",
+    "category": [
+      "Artifact Scan"
+    ],
+    "requires": "|Progressive Level Unlock:4|"
+  },
+  {
+    "name": "Possessed Bell-Bottom Jeans",
+    "region": "Return to Sedgewick Artifacts",
+    "category": [
+      "Artifact Scan"
+    ],
+    "requires": "|Progressive Level Unlock:4|"
+  },
+  {
+    "name": "Swiss Death Clock",
+    "region": "Return to Sedgewick Artifacts",
+    "category": [
+      "Artifact Scan"
+    ],
+    "requires": "|Progressive Level Unlock:4|"
+  },
+  {
+    "name": "The Unruly Beard of Vladmir Belascu",
+    "region": "Return to Sedgewick Artifacts",
+    "category": [
+      "Artifact Scan"
+    ],
+    "requires": "|Progressive Level Unlock:4|"
+  },
+  {
+    "name": "Azetlor the Destroyer Scan",
+    "region": "Public Library Scans",
+    "category": [
+      "Ghost Scans"
+    ],
+    "requires": "|Progressive Level Unlock:2|"
+  },
+  {
+    "name": "Book Bat Scan",
+    "region": "Public Library Scans",
+    "category": [
+      "Ghost Scans"
+    ],
+    "requires": "|Progressive Level Unlock:2|"
+  },
+  {
+    "name": "Book Centurion Scan",
+    "region": "Public Library Scans",
+    "category": [
+      "Ghost Scans"
+    ],
+    "requires": "|Progressive Level Unlock:2|"
+  },
+  {
+    "name": "Book Golem Scan",
+    "region": "Public Library Scans",
+    "category": [
+      "Ghost Scans"
+    ],
+    "requires": "|Progressive Level Unlock:2|"
+  },
+  {
+    "name": "Coal Golem Scan",
+    "region": "Public Library Scans",
+    "category": [
+      "Ghost Scans"
+    ],
+    "requires": "|Progressive Level Unlock:2|"
+  },
+  {
+    "name": "Cruster Scan",
+    "region": "Public Library Scans",
+    "category": [
+      "Ghost Scans"
+    ],
+    "requires": "|Progressive Level Unlock:2|"
+  },
+  {
+    "name": "Crusto Scan",
+    "region": "Public Library Scans",
+    "category": [
+      "Ghost Scans"
+    ],
+    "requires": "|Progressive Level Unlock:2|"
+  },
+  {
+    "name": "Cultist Scan",
+    "region": "Public Library Scans",
+    "category": [
+      "Ghost Scans"
+    ],
+    "requires": "|Progressive Level Unlock:2|"
+  },
+  {
+    "name": "Librarian Ghost/Eleanor Twitty Scan",
+    "region": "Public Library Scans",
+    "category": [
+      "Ghost Scans"
+    ],
+    "requires": "|Progressive Level Unlock:2|"
+  },
+  {
+    "name": "Paper Construct Scan",
+    "region": "Public Library Scans",
+    "category": [
+      "Ghost Scans"
+    ],
+    "requires": "|Progressive Level Unlock:2|"
+  },
+  {
+    "name": "Beauty Queen Scan",
+    "region": "History Museum Scans",
+    "category": [
+      "Ghost Scans"
+    ],
+    "requires": "|Progressive Level Unlock:3|"
+  },
+  {
+    "name": "Black Slime Fiend Scan",
+    "region": "History Museum Scans",
+    "category": [
+      "Ghost Scans"
+    ],
+    "requires": "|Progressive Level Unlock:3|"
+  },
+  {
+    "name": "Black Slime Ghost Scan",
+    "region": "History Museum Scans",
+    "category": [
+      "Ghost Scans"
+    ],
+    "requires": "|Progressive Level Unlock:3|"
+  },
+  {
+    "region": "History Museum Scans",
+    "name": "Confederate Ghost Scan",
+    "category": [
+      "Ghost Scans"
+    ],
+    "requires": "|Progressive Level Unlock:3|"
+  },
+  {
+    "name": "Flying Skull Scan",
+    "region": "History Museum Scans",
+    "category": [
+      "Ghost Scans"
+    ],
+    "requires": "|Progressive Level Unlock:3|"
+  },
+  {
+    "region": "History Museum Scans",
+    "name": "Possessor Ghost Scan",
+    "category": [
+      "Ghost Scans"
+    ],
+    "requires": "|Progressive Level Unlock:3|"
+  },
+  {
+    "name": "Possessed Human Scan",
+    "region": "History Museum Scans",
+    "category": [
+      "Ghost Scans"
+    ],
+    "requires": "|Progressive Level Unlock:3|"
+  },
+  {
+    "name": "Possessed Statue Scan",
+    "region": "History Museum Scans",
+    "category": [
+      "Ghost Scans"
+    ],
+    "requires": "|Progressive Level Unlock:3|"
+  },
+  {
+    "name": "The Chairman Scan",
+    "region": "History Museum Scans",
+    "category": [
+      "Ghost Scans"
+    ],
+    "requires": "|Progressive Level Unlock:3|"
+  },
+  {
+    "name": "Union Ghost Scan",
+    "region": "History Museum Scans",
+    "category": [
+      "Ghost Scans"
+    ],
+    "requires": "|Progressive Level Unlock:3|"
+  },
+  {
+    "name": "Venom Crawler Scan",
+    "region": "History Museum Scans",
+    "category": [
+      "Ghost Scans"
+    ],
+    "requires": "|Progressive Level Unlock:3|"
+  },
+  {
+    "name": "Chef DeForrest Scan",
+    "region": "Return to Sedgewick Scans",
+    "category": [
+      "Ghost Scans"
+    ],
+    "requires": "|Progressive Level Unlock:4|"
+  },
+  {
+    "name": "Cook Ghost Scan",
+    "region": "Return to Sedgewick Scans",
+    "category": [
+      "Ghost Scans"
+    ],
+    "requires": "|Progressive Level Unlock:4|"
+  },
+  {
+    "name": "Kitchen Flyer Scan",
+    "region": "Return to Sedgewick Scans",
+    "category": [
+      "Ghost Scans"
+    ],
+    "requires": "|Progressive Level Unlock:4|"
+  },
+  {
+    "name": "Spider Crawler Scan",
+    "region": "Return to Sedgewick Scans",
+    "category": [
+      "Ghost Scans"
+    ],
+    "requires": "|Progressive Level Unlock:4|"
+  },
+  {
+    "name": "Spiderwitch Scan",
+    "region": "Return to Sedgewick Scans",
+    "category": [
+      "Ghost Scans"
+    ],
+    "requires": "|Progressive Level Unlock:4|"
+  },
+  {
+    "region": "Return to Sedgewick Scans",
+    "name": "Webbed Fiend Scan",
+    "category": [
+      "Ghost Scans"
+    ],
+    "requires": "|Progressive Level Unlock:4|"
+  },
+  {
+    "name": "Black Slime Monster Scan",
+    "region": "Shandor Island Scans",
+    "category": [
+      "Ghost Scans"
+    ],
+    "requires": "|Progressive Level Unlock:5|"
+  },
+  {
+    "name": "Imprisoned Juvenile Sloar Scan",
+    "region": "Shandor Island Scans",
+    "category": [
+      "Ghost Scans"
+    ],
+    "requires": "|Progressive Level Unlock:5|"
+  },
+  {
+    "name": "Cemetery Crawler Scan",
+    "region": "Central Park Scans",
+    "category": [
+      "Ghost Scans"
+    ],
+    "requires": "|Progressive Level Unlock:6|"
+  },
+  {
+    "name": "Cultist Summoner Scan",
+    "region": "Central Park Scans",
+    "category": [
+      "Ghost Scans"
+    ],
+    "requires": "|Progressive Level Unlock:6|"
+  },
+  {
+    "name": "Grave Fiend Scan",
+    "region": "Central Park Scans",
+    "category": [
+      "Ghost Scans"
+    ],
+    "requires": "|Progressive Level Unlock:6|"
+  },
+  {
+    "name": "Grave Monster Scan",
+    "region": "Central Park Scans",
+    "category": [
+      "Ghost Scans"
+    ],
+    "requires": "|Progressive Level Unlock:6|"
+  },
+  {
+    "name": "Keyhead Monster Scan",
+    "region": "Central Park Scans",
+    "category": [
+      "Ghost Scans"
+    ],
+    "requires": "|Progressive Level Unlock:6|"
+  },
+  {
+    "name": "Shandor the Architect Scan",
+    "region": "Central Park Scans",
+    "category": [
+      "Ghost Scans"
+    ],
+    "requires": "|Progressive Level Unlock:6|"
+  },
+  {
+    "name": "Stone Angel Scan",
+    "region": "Central Park Scans",
+    "category": [
+      "Ghost Scans"
+    ],
+    "requires": "|Progressive Level Unlock:6|"
+  },
+  {
+    "name": "Anguished Stuffed Bear",
+    "region": "Shandor Island Artifacts",
+    "category": [
+      "Artifact Scan"
+    ],
+    "requires": "|Progressive Level Unlock:5|"
+  },
+  {
+    "name": "Church of Gozer Songbook",
+    "region": "Shandor Island Artifacts",
+    "category": [
+      "Artifact Scan"
+    ],
+    "requires": "|Progressive Level Unlock:5|"
+  },
+  {
+    "name": "Fox Hunt on Tiamat Island",
+    "region": "Shandor Island Artifacts",
+    "category": [
+      "Artifact Scan"
+    ],
+    "requires": "|Progressive Level Unlock:5|"
+  },
+  {
+    "name": "Ghostbusters DVD",
+    "region": "Shandor Island Artifacts",
+    "category": [
+      "Artifact Scan"
+    ],
+    "requires": "|Progressive Level Unlock:5|"
+  },
+  {
+    "name": "Singing Slime",
+    "region": "Shandor Island Artifacts",
+    "category": [
+      "Artifact Scan"
+    ],
+    "requires": "|Progressive Level Unlock:5|"
+  },
+  {
+    "name": "Wheel of the Alabaster Wretch",
+    "region": "Shandor Island Artifacts",
+    "category": [
+      "Artifact Scan"
+    ],
+    "requires": "|Progressive Level Unlock:5|"
+  },
+  {
+    "name": "Archangel's Gallbladder",
+    "region": "Central Park Artifacts",
+    "category": [
+      "Artifact Scan"
+    ],
+    "requires": "|Progressive Level Unlock:6|"
+  },
+  {
+    "name": "Ghostbusters Mug and Balloon",
+    "region": "Central Park Artifacts",
+    "category": [
+      "Artifact Scan"
+    ],
+    "requires": "|Progressive Level Unlock:6|"
+  },
+  {
+    "name": "Ghostfruit Tree",
+    "region": "Central Park Artifacts",
+    "category": [
+      "Artifact Scan"
+    ],
+    "requires": "|Progressive Level Unlock:6|"
+  },
+  {
+    "name": "Stone Angel Head",
+    "region": "Central Park Artifacts",
+    "category": [
+      "Artifact Scan"
+    ],
+    "requires": "|Progressive Level Unlock:6|"
+  },
+  {
+    "name": "The Skull of Ivo Shandor",
+    "category": [
+      "Artifact Scan"
+    ],
+    "requires": "|Progressive Level Unlock:6|",
+    "region": "Central Park Artifacts"
+  },
+  {
+    "name": "Whistling Bust of Mausch",
+    "region": "Central Park Artifacts",
+    "category": [
+      "Artifact Scan"
+    ],
+    "requires": "|Progressive Level Unlock:6|"
+  }
+]
